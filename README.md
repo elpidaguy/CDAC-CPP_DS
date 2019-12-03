@@ -1,2 +1,4 @@
 # CDAC-CPP_DS
-This Directory contains source code for all the practise lab code I executed for module CPP and DS from CDAC ACTS.
+Practice Lab Solutions for Assignment on CPP and DS.
+
+This Repository contains all the practise lab assignment solution I did throughout the modules CPP and DS in CDAC ACTS, Pune
